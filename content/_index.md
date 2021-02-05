@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: grid_section
-    title: Cards Grid Section
+    title: Transistor Bio
     subtitle: ''
     grid_items:
       - title: Section Item 1
