@@ -10,3 +10,50 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+params:
+  description: lorem-ipsum
+  layout_type: full-width
+  style: classic
+  palette: blue
+  mode: dark
+  base_font: sans-serif
+  header:
+    title: lorem-ipsum
+    logo_alt: lorem-ipsum
+    has_primary_nav: true
+    primary_nav_links: []
+    has_secondary_nav: true
+    secondary_nav_links: []
+    has_anncmnt: false
+    anncmnt_content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    anncmnt_align: left
+    anncmnt_is_home_only: false
+    anncmnt_has_close: false
+    anncmnt_id: lorem-ipsum
+    type: header
+  footer:
+    logo_alt: lorem-ipsum
+    has_primary_nav: true
+    primary_nav_title: lorem-ipsum
+    primary_nav_links: []
+    has_secondary_nav: true
+    secondary_nav_title: lorem-ipsum
+    secondary_nav_links: []
+    has_tertiary_nav: true
+    tertiary_nav_title: lorem-ipsum
+    tertiary_nav_links: []
+    has_social: true
+    social_links: []
+    content: lorem-ipsum
+    links: []
+    type: footer
